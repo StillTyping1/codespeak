@@ -9,7 +9,7 @@ I practice LeetCode in complete silence, but real interviews grade how well
 you explain your thinking out loud. So the first time I'd actually talk through
 a problem was in the interview itself.
 
-I surveyed 21 HBCU CS and STEM students to see if it wasn't just me.
+I surveyed 20+ HBCU CS and STEM students to see if it wasn't just me.
 81% said they don't always talk out loud when they practice, and over half
 said nerves or explaining their thinking was the hardest part of an interview.
 
