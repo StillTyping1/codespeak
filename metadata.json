@@ -1,0 +1,6 @@
+{
+  "name": "CodeSpeak",
+  "description": "Think-aloud technical coding interview coach for HBCU computer science students with real-time speech transcription, AI interviewer follow-ups, and communication scorecards.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
