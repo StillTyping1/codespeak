@@ -10,7 +10,7 @@ you explain your thinking out loud. So the first time I'd actually talk through
 a problem was in the interview itself.
 
 I surveyed 20+ HBCU CS and STEM students to see if it wasn't just me.
-81% said they don't always talk out loud when they practice, and over half
+Nearly 80% said they don't always talk out loud when they practice, and over half
 said nerves or explaining their thinking was the hardest part of an interview.
 
 CodeSpeak gives you that practice. It acts like an interviewer sitting next to you.
@@ -50,8 +50,8 @@ Works best in Chrome, since it uses the browser's speech recognition.
 
 ## Background
 
-I built the first version in one day for the AfroTech 2026 Future of XYZ
-Innovation Challenge, using Google AI Studio to speed up development.
+I prototyped the first version in one day for the AfroTech 2026 Future of XYZ Innovation Challenge
+using Google AI Studio, then tested it and fixed issues like slow AI follow-up questions.
 
 ## What's next
 
